@@ -10,5 +10,6 @@ public class HelloWorld{
         //std-output
         System.out.println("Hello World");
 	System.out.prinln("Hello from local git repository: c:/Users/papad/codingFactory_Git/cfgit/webgit, folder chapter1");
+   System.out.println("Hello again from local git repository, 15 Dec");
     }
 }
